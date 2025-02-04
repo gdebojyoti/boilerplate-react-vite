@@ -1,6 +1,8 @@
-# React + Vite
+# Boilerplate: React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The base template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. I have made the following updates on top of it -
+- [x] React & ReactDOM updated to v19
+- [x] React Router v7 added to support pages
 
 Currently, two official plugins are available:
 
