@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="page">
       <Nav />
-      <h1>Know About Us!</h1>
+      <h1 className='bg-gray-600'>Know About Us!</h1>
     </div>
   )
 }
