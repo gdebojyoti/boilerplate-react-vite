@@ -1,12 +1,10 @@
 import Nav from '../../components/Nav'
 
-import './style.css'
-
 const About = () => {
   return (
-    <div className="about">
+    <div className="page">
       <Nav />
-      <h1 className="about__heading">Know About Us!</h1>
+      <h1>Know About Us!</h1>
     </div>
   )
 }

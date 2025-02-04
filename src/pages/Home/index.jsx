@@ -1,12 +1,10 @@
 import Nav from '../../components/Nav'
 
-import './style.css'
-
 const Home = () => {
   return (
-    <div className="home">
+    <div className="page">
       <Nav />
-      <h1 className="home__heading">Welcome Home!</h1>
+      <h1>Welcome Home!</h1>
     </div>
   )
 }
